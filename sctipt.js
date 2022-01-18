@@ -35,6 +35,6 @@ function find_FirstNotRepeatedChar(str) {
     }
     return result;
   }
-  console.log(find_FirstNotRepeatedChar('the quick brown fox jumps over the calm kitten quietly'));
+csonsole.log(find_FirstNotRepeatedChar('the quick brown fox jumps over the calm kitten quietly'));
  console.log(find_FirstNotRepeatedChar(' this hat is the greatest!'));
  console.log(find_FirstNotRepeatedChar(' what a wonderful day it has been!'));
